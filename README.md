@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mrityunjay Shukla</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A passionate researcher in the field of Computer Architecture and my primary focus is GPU architecture</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrityunjayshukla411&label=Profile%20views&color=0e75b6&style=flat" alt="mrityunjayshukla411" /> </p>
 
-- 🔭 I’m currently working on **Lab Automation**
+- 🔭 I’m currently working on **Hardware accelerated raytracing**
 
-- 🌱 I’m currently learning **Tensorflow2**
+- 🌱 I’m currently learning **LLVM**
 
 - 👨‍💻 All of my projects are available at [https://mrityunjayshukla411.github.io/mrityunjayshukla411/](https://mrityunjayshukla411.github.io/mrityunjayshukla411/)
 
-- 💬 Ask me about **React, Machine Learning , Automation**
+- 💬 Ask me about **GPUs, CUDA and Computer Architecture**
 
 - 📫 How to reach me **mrityunjayshukla411@gmail.com**
 
